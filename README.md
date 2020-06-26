@@ -8,6 +8,7 @@
 * plugins: {}
   - 'nazwa_skryptu': 'ścieżka do pliku'
   
-# Pobierz i wrzuć do folderu plik JsHtmlMaker.js oraz stwórz data.js z taka samą strukturą.
-# Podejpnij do pliku .html dwa te skrypt, data.js nad plikem główym .js
-# To tyle, Napisz swoją strone w pliku data.js !
+# Instalacja
+> Pobierz i wrzuć do folderu plik JsHtmlMaker.js oraz stwórz data.js z taka samą strukturą.
+> Podejpnij do pliku .html dwa te skrypt, data.js nad plikem główym .js
+> To tyle, Napisz swoją strone w pliku data.js !
