@@ -14,5 +14,5 @@
 > To tyle, Napisz swoją strone w pliku data.js !
 
 # Wbudowane metody
-> new write(elementID, content)
+* new write(elementID, content)
   Napisz coś na stronie za pomocą wbudowanej klasy write, jako 1 argument podaj ID elementu, jako drugi treść.
