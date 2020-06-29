@@ -1,6 +1,6 @@
 ## JsHtmlMaker
 > W pliku data.js znajdują sie informacje o tym co ma być na stronie:
-* page: {}
+* pages: {}
   - 'nazwa_strony: {}
     - 'nazwa_diva' : 'treść diva na stronie'
 * style: {}
